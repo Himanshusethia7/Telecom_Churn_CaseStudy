@@ -1,5 +1,6 @@
 # Telecom_Churn_CaseStudy
 
+Telecom Churn Case Study: Approach
 Objective:
 The goal of this project is to predict churn among high-value customers (top 20% by revenue) in the telecom industry, with a focus on the Indian and Southeast Asian market. By identifying customers at high risk of leaving, the company can take proactive steps to retain them and minimize revenue loss.
 
